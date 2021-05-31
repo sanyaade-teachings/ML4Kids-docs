@@ -1,6 +1,7 @@
-# Machine Learning for Kids
+# ML4Kids-Docs
 
-## What is this?
+## resource being adapted for teaching of Machine Learning, Robotics, Virtual-Assistant, Mixed Reality
+## Mainly targeting (6-16yr old kids in schools and colleges)
 
 This is the set of project worksheets and documentation for [Machine Learning for Kids](https://machinelearningforkids.co.uk).
 
